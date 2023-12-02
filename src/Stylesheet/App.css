@@ -1,0 +1,9 @@
+@import url("../index.css");
+
+.App-header{
+    background-color: var(--body_background);
+    color: var(--body_color);
+}
+.nav-link{
+    color:var(--link_color);
+}
